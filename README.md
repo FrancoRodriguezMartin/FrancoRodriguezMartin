@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 💬 Ask me about **hrml, css y javascript**
+- 💬 Ask me about **html, css y javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
