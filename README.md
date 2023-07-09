@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **html, css y javascript**
 
+- 📫 How to reach me **franwork.programando@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
