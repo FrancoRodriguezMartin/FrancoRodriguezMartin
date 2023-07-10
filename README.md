@@ -6,7 +6,6 @@
 - 📫 How to reach me **franwork.programando@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
-<a>https://www.linkedin.com/in/franco-rodriguez-martin/</a>
 <p align="left">
 </p>
 
